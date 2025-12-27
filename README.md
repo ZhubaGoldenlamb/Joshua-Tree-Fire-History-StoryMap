@@ -26,7 +26,7 @@ This map supports exploration of **when and where fires occurred**, and how thos
 ## View the StoryMap
 
 🔗 **Live ArcGIS StoryMap:**  
-([Link to StoryMap]https://arcg.is/1LC1Ou)
+([Link to StoryMap](https://arcg.is/1LC1Ou))
 
 ---
 
@@ -35,7 +35,7 @@ This map supports exploration of **when and where fires occurred**, and how thos
 Insights gained while visualizing burn scars over vegetation communities helped motivate and contextualize the development of the following project:
 
 🔗 **Developed Fire Risk Model for Joshua Tree National Park**  
-([Link to Risk Model GitHub repo]https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
+(([Link to Risk Model GitHub repo](https://github.com/ZhubaGoldenlamb/Developed-Fire-Risk-Model-for-Joshua-Tree-National-Park)
 
 While the NDVI project focuses on **quantitative raster analysis**, this StoryMap focuses on **Web GIS design and spatial storytelling**, demonstrating how analytical results can be translated into interactive applications.
 
